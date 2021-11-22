@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-
+Developing in Python is my hobby and I want to make it my speciality for web development (Django) and data science.
 - 🔭 I’m currently developing a Twitch command connected to an external Express server.
 - 🌱 I’m currently learning Express, React JS ans Docker
 - 📫 How to reach me: my [Twitter](https://twitter.com/3adess) account or my email adress displayed on this profile 😎
