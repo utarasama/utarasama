@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 Developing in Python is my hobby and I want to make it my speciality for web development (Django) and data science.
 - 🔭 I’m currently developing an Android app to help Muslims catch up on their obligatory prayers.
-- 🌱 I’m currently learning Kotlin.
+- 🌱 I’m currently learning Django.
 - 📫 How to reach me: my [LinkedIn](https://www.linkedin.com/in/mehdi-tarhoult/) account or my [email address](mailto:mehdi.trh@outlook.fr) 😎
 - ⚡ Fun fact: I love water!
 <!--
