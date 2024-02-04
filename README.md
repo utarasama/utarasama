@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 -->
-[![](https://img.shields.io/badge/-@3adess-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/3adess)
 [![](https://img.shields.io/badge/-Mehdi%20Tarhoult-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehdi-tarhoult/)](https://www.linkedin.com/in/mehdi-tarhoult/)
 
 
