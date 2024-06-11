@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 
 Developing in Python is my hobby and I want to make it my speciality for web development (Django) and data science.
-- 🔭 I’m currently developing a marketplace <ith Django and Tailwind.
+- 🔭 I’m currently developing a marketplace with Django and Tailwind.
 - 🌱 I’m currently learning Django.
 - 📫 How to reach me: my [email address](mailto:mehdi.trh@outlook.fr) 😎
 - ⚡ Fun fact: I love water!
